@@ -1,2 +1,1 @@
-# Smartphone addiction
-Trying to find smartphone addiction numbers
+# Smartphone addiction dataset on kaggle predictions
